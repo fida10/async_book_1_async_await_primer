@@ -1,5 +1,5 @@
 [package]
-name = "async_book_1_3_async_await_primer"
+name = "async_book_1_async_await_primer"
 version = "0.1.0"
 edition = "2021"
 
